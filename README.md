@@ -8,7 +8,9 @@ Final Year Sotware Engineering Student
 I am very exited to embark on my Software Maintenance and Evolution Journey.
 
 - **Fun fact**: I love playing football.
-[![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-Nahian12/blob/95cd87d03e852f75f4d128eee8a4fc269aab5c8a/Screenshot%202024-10-09%20163043.png)] <!-- Link to the uploaded image -->
+  
+![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-Nahian12/blob/95cd87d03e852f75f4d128eee8a4fc269aab5c8a/Screenshot%202024-10-09%20163043.png)
+
 ## GitHub Profile
 You can view my personalized GitHub profile
-(https://github.com/Nahian-12)
+(https://github.com/Nahian12)
